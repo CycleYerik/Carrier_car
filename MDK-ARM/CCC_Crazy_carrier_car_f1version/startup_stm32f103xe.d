@@ -1,0 +1,1 @@
+ccc_crazy_carrier_car_f1version\startup_stm32f103xe.o: startup_stm32f103xe.s
